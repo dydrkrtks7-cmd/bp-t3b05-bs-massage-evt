@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-hyperpublic-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://sinjeong-hyperpublic-note.banpo-massage-review.xyz/sitemap-pages.xml
